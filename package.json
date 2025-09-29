@@ -1,0 +1,29 @@
+{
+  "name": "veeb_eljas",
+  "version": "1.0.0",
+  "description": "TA rühmaveebiprogrammeerimise kursuse veeb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://GertMatthias@github.com/GertMatthias/TA_veeb_Eljas.git"
+  },
+  "keywords": [
+    "õppetöö",
+    "node.js",
+    "express.js",
+    "tallinna",
+    "ülikool"
+  ],
+  "author": "Gert Matthias Eljas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GertMatthias/TA_veeb_Eljas/issues"
+  },
+  "homepage": "https://github.com/GertMatthias/TA_veeb_Eljas#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
